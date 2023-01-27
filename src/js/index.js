@@ -17,9 +17,3 @@ botaoFecharModal.addEventListener("click", () =>{
     alternarModal()
     video.setAttribute("src", "");
 });
-
-
-
-
-
-
